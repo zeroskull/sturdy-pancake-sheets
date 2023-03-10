@@ -8,10 +8,10 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ---
 
-![Character Sheet](resources/sturdy-pancake-character-sheet.png)
+![Character Sheet](resources/character-sheet.png)
 
 ## Cheat Sheet
 
 ---
 
-![Cheat Sheet](resources/sturdy-pancake-cheat-sheet.png)
+![Cheat Sheet](resources/cheat-sheet.png)
