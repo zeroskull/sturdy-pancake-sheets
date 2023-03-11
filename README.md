@@ -15,3 +15,9 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 ---
 
 ![Cheat Sheet](resources/cheat-sheet.png)
+
+## Example Character Sheet
+
+---
+
+![Example Character Sheet](resources/example-character-sheet.png)
