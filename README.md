@@ -27,6 +27,4 @@
 
 - DGJYEOPHF 🗡️☠️🗡️ Assassin
 
----
-
 ![DGJYEOPHF](resources/example-character-sheet.png)
