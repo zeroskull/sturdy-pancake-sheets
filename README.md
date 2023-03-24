@@ -1,6 +1,6 @@
-# Sturdy Pancake Sheets
+# 🍴🥞 Sturdy Pancake Sheets 🥞🍴
 
-WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-pancake)
+- WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-pancake)
 
 ## [Download The Latest Sheets](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 
@@ -9,22 +9,24 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 - [ ] 🧙‍♂️ Add Wizard Sheet
 - [ ] 🪓 Add More Example Characters
 
-## Character Sheet
+### Character Sheet
 
 ---
 
 ![Character Sheet](resources/character-sheet.png)
 
-## Cheat Sheet
+### Cheat Sheet
 
 ---
 
 ![Cheat Sheet](resources/cheat-sheet.png)
 
-## Example Character Sheets
+### Example Character Sheets
 
 ---
 
 - DGJYEOPHF 🗡️☠️🗡️ Assassin
 
-![Example Character Sheet](resources/example-character-sheet.png)
+---
+
+![DGJYEOPHF](resources/example-character-sheet.png)
