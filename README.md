@@ -9,19 +9,19 @@
 - [ ] 🧙‍♂️ Add Wizard Sheet
 - [ ] 🪓 Add More Example Characters
 
-## Character Sheet
+### Character Sheet
 
 ---
 
 ![Character Sheet](resources/character-sheet.png)
 
-## Cheat Sheet
+### Cheat Sheet
 
 ---
 
 ![Cheat Sheet](resources/cheat-sheet.png)
 
-## Example Character Sheets
+### Example Character Sheets
 
 ---
 
