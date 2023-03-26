@@ -8,6 +8,7 @@
 
 - [ ] 🧙‍♂️ Add Wizard Sheet
 - [ ] 🪓 Add More Example Characters
+- [ ] 🖌️ Design Unique Elements
 
 ### Character Sheet
 
