@@ -9,7 +9,7 @@
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [ ] 🥳 Add Group Sheet
 - [x] ~~🧮 Add General Notes Sheet~~
-- [ ] 🪓 Add More Example Characters
+- [x] ~~🪓 Add More Example Characters~~
 
 ### Character Sheet
 
@@ -27,7 +27,7 @@
 
 ---
 
-- *cut/fold along the dotted line*
+- _cut/fold along the dotted line_
 
 ![Caster & Notes Sheet](resources/caster-notes-sheet.png)
 
@@ -35,6 +35,18 @@
 
 ---
 
-- DGJYEOPHF 🗡️☠️🗡️ Assassin
+- DGJYEOPHF 🗡️☠️🛡️ Assassin
 
-![DGJYEOPHF](resources/example-character-sheet.png)
+![DGJYEOPHF](resources/character-sheet-dgjyeophf.png)
+
+---
+
+- Gorman 🛡️🔨🛡️ Tank
+
+![Gorman](resources/character-sheet-gorman.png)
+
+---
+
+- Mavra 🤛🧙‍♀️📖 Wizard
+
+![Mavra](resources/character-sheet-mavra.png)
