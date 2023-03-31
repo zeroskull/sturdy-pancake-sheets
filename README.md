@@ -23,11 +23,13 @@
 
 ![Cheat Sheet](resources/cheat-sheet.png)
 
-### Caster Sheet & Notes Sheet
+### Caster & Notes Sheet
 
 ---
 
-![Caster Sheet](resources/caster-sheet.png) ![Notes Sheet](resources/notes-sheet.png)
+- *cut/fold along the dotted line*
+
+![Caster & Notes Sheet](resources/caster-notes-sheet.png)
 
 ### Example Character Sheets
 
