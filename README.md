@@ -6,8 +6,9 @@
 
 ## TODO
 
-- [ ] 🧙‍♂️ Add Wizard Sheet
+- [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [ ] 🥳 Add Group Sheet
+- [x] ~~🧮 Add General Notes Sheet~~
 - [ ] 🪓 Add More Example Characters
 
 ### Character Sheet
@@ -21,6 +22,12 @@
 ---
 
 ![Cheat Sheet](resources/cheat-sheet.png)
+
+### Caster Sheet & Notes Sheet
+
+---
+
+![Caster Sheet](resources/caster-sheet.png) ![Notes Sheet](resources/notes-sheet.png)
 
 ### Example Character Sheets
 
