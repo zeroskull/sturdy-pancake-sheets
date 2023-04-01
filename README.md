@@ -4,6 +4,8 @@
 
 ## [Download The Latest Sheets](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 
+- Download `full-sheet.pdf`, this contains the basic sheets formatted for printing.
+
 ## TODO
 
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
@@ -27,7 +29,7 @@
 
 ---
 
-- _cut/fold along the dotted line_
+- ✂️ --------- ✂️
 
 ![Caster & Notes Sheet](resources/caster-notes-sheet.png)
 
