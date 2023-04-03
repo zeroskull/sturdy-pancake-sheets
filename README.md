@@ -33,7 +33,7 @@
 
 ---
 
-![Caster & Notes Sheet](resources/caster-notes-sheet.png)
+![Caster & Notes Sheet](resources/casting-sheet.png)
 
 </details>
 
