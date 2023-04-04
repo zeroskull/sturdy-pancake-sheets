@@ -4,6 +4,9 @@
 
 ## [Download The Latest Sheets](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 
+- Use the option "Actual Size" when printing the PDFs
+- Use the PDF viewer in Firefox to add text to the PDFs
+
 ## TODO
 
 - [ ] 🎡 Update Example Characters
@@ -21,19 +24,19 @@
 
 ---
 
-![Character Sheet](resources/character-sheet.png)
+![Character Sheet](resources/character-traditional.png)
 
 ### Cheat Sheet
 
 ---
 
-![Cheat Sheet](resources/cheat-sheet.png)
+![Cheat Sheet](resources/cheat-sheet-traditional.png)
 
 ### Caster & Notes Sheet
 
 ---
 
-![Caster & Notes Sheet](resources/casting-sheet.png)
+![Caster & Notes Sheet](resources/casting-traditional.png)
 
 </details>
 
@@ -48,11 +51,23 @@
 
 ### Character Cards
 
+---
+
 ![Character Cards](resources/character-cards.png)
 
-### Caster Cards
+### Casting Cards
 
-![Character Cards](resources/casting-cards.png)
+---
+
+![Casting Cards](resources/casting-cards.png)
+
+### Cheat Sheet Cards
+
+---
+
+![Cheat Sheet Cards](resources/cheat-sheet-cards.png)
+
+![Rolling Table Cards](resources/rolling-cards.png)
 
 </details>
 
@@ -60,19 +75,31 @@
 
 <summary>Example Character Sheets</summary>
 
-- DGJYEOPHF 🗡️☠️🛡️ Assassin
+<details>
+
+<summary>DGJYEOPHF 🗡️☠️🛡️ Assassin</summary>
+
+---
 
 ![DGJYEOPHF](resources/character-sheet-dgjyeophf.png)
 
----
+</details>
 
-- Gorman 🛡️🔨🛡️ Tank
+<details>
+
+<summary>Gorman 🛡️🔨🛡️ Tank</summary>
+
+---
 
 ![Gorman](resources/character-sheet-gorman.png)
 
----
+</details>
 
-- Mavra 🤛🧙‍♀️📖 Wizard
+<details>
+
+<summary>Mavra 🤛🧙‍♀️📖 Wizard</summary>
+
+---
 
 ![Mavra](resources/character-sheet-mavra.png)
 
