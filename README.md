@@ -20,6 +20,10 @@
 
 <summary>Traditional Sheets</summary>
 
+- A more standard format for a TTRPG Character.
+- Most information contained on one page.
+- Separate pages for more complex characters and notes.
+
 ### Character Sheet
 
 ---
@@ -44,10 +48,14 @@
 
 <summary>Card Sheets</summary>
 
+- A more experimental format for a TTRPG Character.
 - All the elements of a character sectioned into smaller pieces.
-- Use scissors, or a blade and straight edge, to cut along the dotted lines.
-- The card's dimensions are 63 mm x 88 mm, so they should fit inside of standard card sleeves.
-- Print at "Actual Size" or "100% Scaling" for the best accuracy.
+- Ability to customize you Character Sheet layout at the table.
+- Using the Card Sheets
+  - Print at "Actual Size" or "100% Scaling" for the best accuracy.
+  - Use scissors, or a blade and straight edge, to cut along the dotted lines.
+  - The card's dimensions are 63 mm x 88 mm, so they should fit inside of standard card sleeves.
+  - Fold larger elements in half for more convenient storage.
 
 ### Character Cards
 
@@ -77,7 +85,7 @@
 
 <details>
 
-<summary>DGJYEOPHF 🗡️☠️🛡️ Assassin</summary>
+<summary>DGJYEOPHF - 🗡️☠️🛡️ - Assassin</summary>
 
 ---
 
@@ -87,7 +95,7 @@
 
 <details>
 
-<summary>Gorman 🛡️🔨🛡️ Tank</summary>
+<summary>Gorman - 🛡️🔨🛡️ - Tank</summary>
 
 ---
 
@@ -97,7 +105,7 @@
 
 <details>
 
-<summary>Mavra 🤛🧙‍♀️📖 Wizard</summary>
+<summary>Mavra - 🤛🧙‍♀️📖 - Wizard</summary>
 
 ---
 
