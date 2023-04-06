@@ -1,0 +1,46 @@
+name: Zip Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release-name:
+        description: "Release Name"
+        required: true
+      tag-name:
+        description: "Tag Name"
+        required: true
+
+jobs:
+  zip-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install zip
+        run: sudo apt-get install zip
+
+      - name: Zip All PDFs
+        run: |
+          find . -type f \( -iname "*.pdf" \) -exec zip sheets.zip {}\;
+
+      - name: Create Github Release
+        id: create-release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ sectets.GH_PAT }}
+        with:
+          tag-name: release-${{ github.event.inputs.tag-name }}
+          release-name: ${{ github.event.inputs.release-name }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Zip as Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT}}
+        with:
+          upload_url: ${{ setps.create-release.outputs.upload_url }}
+          asset_path: sheets.zip
+          asset_name: sheets.zip
+          asset_content_type: application/zip
