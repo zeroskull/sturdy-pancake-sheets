@@ -7,7 +7,7 @@ on:
         description: "Release Name"
         required: true
       tag_name:
-        description: 'Tag Name (with "release-" prefix)'
+        description: "Tag Name"
         required: true
       release_description:
         description: "Release Description"
@@ -20,12 +20,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Install zip
-        run: sudo apt-get install zip
-
       - name: Zip All PDFs
         run: |
           find . -type f \( -iname "*.pdf" \) -exec zip -j sheets.zip {} \;
+
+      - name: Upload Zip as Release Asset
+        uses: actions/upload-artifact@v3
+        with:
+          name: sheets.zip
+          path: sheets.zip
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: sheets.zip
 
       - name: Create Github Release
         id: create-release
@@ -36,23 +44,6 @@ jobs:
           tag_name: ${{ github.event.inputs.tag_name }}
           name: ${{ github.event.inputs.release_name }}
           body: ${{ github.event.inputs.release_description }}
+          files: sheets.zip
           draft: false
           prerelease: false
-
-      - name: Upload Zip as Release Asset
-        uses: actions/upload-artifact@v2
-        with:
-          name: sheets.zip
-          path: sheets.zip
-
-      - name: Download Artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: sheets.zip
-
-      - name: Attach Zip to Release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: sheets.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
