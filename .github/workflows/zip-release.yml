@@ -22,7 +22,7 @@ jobs:
 
       - name: Zip All PDFs
         run: |
-          find . -type f \( -iname "*.pdf" \) -exec zip sheets.zip {} \;
+          find . -type f \( -iname "*.pdf" \) -exec zip -j sheets.zip {} \;
 
       - name: Create Github Release
         id: create-release
