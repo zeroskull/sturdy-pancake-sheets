@@ -24,7 +24,7 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ---
 
-- Download the `.zip` files from the [latest release.](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
+- Download the `sheets.zip` file from the [latest release.](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 - Decide which style of sheet you would like to use for your character.
   - Descriptions and Examples are provided below. Links to relevant sections are located in the Table of Contents above.
 - Use the option "Actual Size" when printing the PDFs.
