@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          tag_name: ${{ github.event.inputs.tag_name#release-* }}
+          tag_name: ${{ github.event.inputs.tag_name }}#release-*
           name: ${{ github.event.inputs.release_name }}
           body: ${{ github.event.inputs.release_description }}
           draft: false
