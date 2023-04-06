@@ -28,7 +28,7 @@ jobs:
         id: create-release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ sectets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           tag-name: release-${{ github.event.inputs.tag-name }}
           release-name: ${{ github.event.inputs.release-name }}
