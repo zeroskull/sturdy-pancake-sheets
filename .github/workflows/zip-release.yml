@@ -31,7 +31,9 @@ jobs:
         id: remove_prefix
         run: |
           TAG_NAME="${{ github.event.inputs.tag_name }}"
-          echo "TAG_NAME=${TAG_NAME#release-}" >> $GITHUB_ENV
+          CLEAN_TAG_NAME=${TAG_NAME#release-}
+          echo "CLEAN_TAG_NAME=${CLEAN_TAG_NAME}"
+          echo "::set-output name=clean_tag_name::${CLEAN_TAG_NAME}"
 
       - name: Create Github Release
         id: create-release
@@ -39,9 +41,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          tag_name: ${{ env.TAG_NAME }}
+          tag_name: ${{ steps.remove_prefix.outputs.clean_tag_name }}
           name: ${{ github.event.inputs.release_name }}
-          body: ${{ github.event.inputs.release_desciption }}
+          body: ${{ github.event.inputs.release_description }}
           draft: false
           prerelease: false
 
