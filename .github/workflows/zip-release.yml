@@ -30,7 +30,8 @@ jobs:
       - name: Remove "release-" prefix from tag name
         id: remove_prefix
         run: |
-          echo "TAG_NAME=${{ github.event.inputs.tag_name#release- }}" >> $GITHUB_ENV
+          TAG_NAME="${{ github.event.inputs.tag_name }}"
+          echo "TAG_NAME=${TAG_NAME#release-}" >> $GITHUB_ENV
 
       - name: Create Github Release
         id: create-release
