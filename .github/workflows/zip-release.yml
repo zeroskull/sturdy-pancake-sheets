@@ -7,7 +7,10 @@ on:
         description: "Release Name"
         required: true
       tag_name:
-        description: "Tag Name"
+        description: 'Tag Name (with "release-" prefix)'
+        required: true
+      release_description:
+        description: "Release Description"
         required: true
 
 jobs:
@@ -24,23 +27,37 @@ jobs:
         run: |
           find . -type f \( -iname "*.pdf" \) -exec zip -j sheets.zip {} \;
 
+      - name: Remove "release-" prefix from tag name
+        id: remove_prefix
+        run: |
+          echo "TAG_NAME=${{ github.event.inputs.tag_name#release- }}" >> $GITHUB_ENV
+
       - name: Create Github Release
         id: create-release
-        uses: actions/create-release@v1
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          tag_name: release-${{ github.event.inputs.tag_name }}
-          release_name: ${{ github.event.inputs.release_name }}
+          tag_name: ${{ env.TAG_NAME }}
+          name: ${{ github.event.inputs.release_name }}
+          body: ${{ github.event.inputs.release_desciption }}
           draft: false
           prerelease: false
 
       - name: Upload Zip as Release Asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT}}
+        uses: actions/upload-artifact@v2
         with:
-          upload_url: ${{ steps.create-release.outputs.upload_url }}
-          asset_path: sheets.zip
-          asset_name: sheets.zip
-          asset_content_type: application/zip
+          name: sheets.zip
+          path: sheets.zip
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: sheets.zip
+
+      - name: Attach Zip to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: sheets.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
