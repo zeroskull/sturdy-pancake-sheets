@@ -21,22 +21,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Zip All PDFs
-        run: |
-          find . -type f \( -iname "*.pdf" \) -exec zip -j sheets.zip {} \;
-
-      - name: Upload Zip as Release Asset
-        uses: actions/upload-artifact@v3
-        with:
-          name: sheets.zip
-          path: sheets.zip
-
-      - name: Download Artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: sheets.zip
+        run: find . -type f \( -iname "*.pdf" \) -exec zip -j sheets.zip {} \;
 
       - name: Create Github Release
-        id: create-release
         uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
