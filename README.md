@@ -111,8 +111,9 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ## **TODO**
 
-- [ ] 🎡 Update Example Characters
 - [ ] 🥳 Add Group Sheet
+- [ ] 📋 Add Explainer Sheet
+- [x] ~~🎡 Update Example Characters~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [x] ~~🧮 Add General Notes Sheet~~
 - [x] ~~🪓 Add More Example Characters~~
