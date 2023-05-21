@@ -52,7 +52,7 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ![Cheat Sheet](resources/cheat-sheet-traditional.png)
 
-### Caster & Notes Sheet
+### Caster Sheets
 
 ---
 
