@@ -89,6 +89,12 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ![Rolling Table Cards](resources/rolling-cards.png)
 
+### Opponent Cards
+
+---
+
+![Opponent Cards](resources/opponent-cards.png)
+
 ## **Example Characters**
 
 ### DGJYEOPHF - 🗡️☠️🛡️ - Assassin
