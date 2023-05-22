@@ -79,7 +79,7 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ---
 
-![Casting Cards](resources/casting-cards.png)
+![Casting Cards](resources/casting-table-cards.png)
 
 ### Cheat Sheet Cards
 
@@ -87,7 +87,11 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ![Cheat Sheet Cards](resources/cheat-sheet-cards.png)
 
-![Rolling Table Cards](resources/rolling-cards.png)
+### Ability Cards
+
+---
+
+![Ability Cards](resources/ability-cards.png)
 
 ### Opponent Cards
 
@@ -119,6 +123,7 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 - [ ] 🥳 Add Group Sheet
 - [ ] 📋 Add Explainer Sheet
+- [x] ~~🤵‍♂️ Add Opponent Sheet~~
 - [x] ~~🎡 Update Example Characters~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [x] ~~🧮 Add General Notes Sheet~~
