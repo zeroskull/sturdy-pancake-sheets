@@ -22,8 +22,6 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ## **Getting Started**
 
----
-
 - Download the `sheets.zip` file from the [latest release.](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 - Decide which style of sheet you would like to use for your character.
   - Descriptions and Examples are provided below. Links to relevant sections are located in the Table of Contents above.
@@ -44,25 +42,25 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 **_OUT OF DATE_**
 
----
-
 ![Character Sheet](resources/character-traditional.png)
+
+---
 
 ### Cheat Sheet
 
 **_OUT OF DATE_**
 
----
-
 ![Cheat Sheet](resources/cheat-sheet-traditional.png)
+
+---
 
 ### Caster Sheets
 
 **_OUT OF DATE_**
 
----
-
 ![Caster & Notes Sheet](resources/casting-traditional.png)
+
+---
 
 ## **Card Sheets**
 
@@ -79,37 +77,37 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 **_OUT OF DATE_**
 
----
-
 ![Character Cards](resources/character-cards.png)
+
+---
 
 ### Casting Cards
 
 **_OUT OF DATE_**
 
----
-
 ![Casting Cards](resources/casting-table-cards.png)
+
+---
 
 ### Cheat Sheet Cards
 
 **_OUT OF DATE_**
 
----
-
 ![Cheat Sheet Cards](resources/cheat-sheet-cards.png)
+
+---
 
 ### Ability Cards
 
----
-
 ![Ability Cards](resources/ability-cards.png)
+
+---
 
 ### Opponent Cards
 
----
-
 ![Opponent Cards](resources/opponent-cards.png)
+
+---
 
 ## **Example Characters**
 
@@ -117,25 +115,25 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 **_OUT OF DATE_**
 
----
-
 ![DGJYEOPHF](resources/character-sheet-dgjyeophf.png)
+
+---
 
 ### Gorman - 🛡️🔨🛡️ - Tank
 
 **_OUT OF DATE_**
 
----
-
 ![Gorman](resources/character-sheet-gorman.png)
+
+---
 
 ### Mavra - 🤛🧙‍♀️📖 - Wizard
 
 **_OUT OF DATE_**
 
----
-
 ![Mavra](resources/character-sheet-mavra.png)
+
+---
 
 ## **TODO**
 
