@@ -42,7 +42,7 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 **_OUT OF DATE_**
 
-![Character Sheet](resources/character-traditional.png)
+![Character Sheet](resources/character-sheet-traditional.png)
 
 ---
 
