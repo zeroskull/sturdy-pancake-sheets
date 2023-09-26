@@ -107,15 +107,9 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ## **Example Characters**
 
-### DGJYEOPHF - 🗡️☠️🛡️ - Assassin
-
-**_OUT OF DATE_**
-
-![DGJYEOPHF](resources/character-sheet-dgjyeophf.png)
-
----
-
 ### Gorman - 🛡️🔨🛡️ - Tank
+
+- Freshly made example character
 
 **_OUT OF DATE_**
 
@@ -125,9 +119,29 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ### Mavra - 🤛🧙‍♀️📖 - Wizard
 
+- Freshly made example casting character
+
 **_OUT OF DATE_**
 
 ![Mavra](resources/character-sheet-mavra.png)
+
+---
+
+### Torben - 🔫 🧔‍♂️ 🚶 - Trader
+
+- Early game example character
+
+![Torben](resources/character-sheet-torben.png)
+
+---
+
+### DGJYEOPHF - 🗡️☠️🛡️ - Assassin
+
+- Experienced example character
+
+**_OUT OF DATE_**
+
+![DGJYEOPHF](resources/character-sheet-dgjyeophf.png)
 
 ---
 
@@ -138,15 +152,15 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
   - [ ] DGJYEOPHF
   - [ ] Gorman
   - [ ] Mavra
-  - [ ] Torben
+  - [X] ~~Torben~~
 - [ ] 🎴 Update Card Sheets (2023 09)
   - [ ] Casting Sheet
   - [ ] Character Sheet
   - [ ] Cheat Sheet
 - [ ] 📄 Update Traditional Sheets (2023 09)
   - [ ] Casting Sheet
-  - [ ] Character Sheet
-  - [ ] Cheat Sheet
+  - [X] ~~Character Sheet~~
+  - [X] ~~Cheat Sheet~~
 - [x] ~~🤵‍♂️ Add Opponent Sheet~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [x] ~~🧮 Add General Notes Sheet~~
