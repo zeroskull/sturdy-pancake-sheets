@@ -36,11 +36,17 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 - A more standard format for a TTRPG Character.
 - Most information contained on one page.
-- Separate pages for more complex characters and notes.
+- Separate pages for more complex characters.
 
 ### Character Sheet
 
 ![Character Sheet](resources/character-sheet-traditional.png)
+
+---
+
+### Character Sheet Overview
+
+![Character Sheet Overview](resources/character-sheet-overview.png)
 
 ---
 
@@ -131,6 +137,8 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 - Early game example character
 
+**_OUT OF DATE_**
+
 ![Torben](resources/character-sheet-torben.png)
 
 ---
@@ -147,20 +155,20 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ## **TODO**
 
-- [ ] 📋 Add Explainer Sheet
-- [ ] 🎡 Update Example Characters (2023 09)
+- [ ] 🎡 Update Example Characters
   - [ ] DGJYEOPHF
   - [ ] Gorman
   - [ ] Mavra
-  - [X] ~~Torben~~
-- [ ] 🎴 Update Card Sheets (2023 09)
+  - [ ] Torben
+- [ ] 🎴 Update Card Sheets
   - [ ] Casting Sheet
   - [ ] Character Sheet
   - [ ] Cheat Sheet
-- [ ] 📄 Update Traditional Sheets (2023 09)
+- [ ] 📄 Update Traditional Sheets
   - [ ] Casting Sheet
-  - [X] ~~Character Sheet~~
-  - [X] ~~Cheat Sheet~~
+  - [x] ~~Character Sheet~~
+  - [x] ~~Cheat Sheet~~
+- [x] ~~_📋 Add Explainer Sheet_~~
 - [x] ~~🤵‍♂️ Add Opponent Sheet~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [x] ~~🧮 Add General Notes Sheet~~
