@@ -58,8 +58,6 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ### Caster Sheets
 
-**_OUT OF DATE_**
-
 ![Caster & Notes Sheet](resources/casting-traditional.png)
 
 ---
@@ -164,11 +162,11 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
   - [ ] Casting Sheet
   - [ ] Character Sheet
   - [ ] Cheat Sheet
-- [ ] 📄 Update Traditional Sheets
-  - [ ] Casting Sheet
+- [x] ~~📄 Update Traditional Sheets~~
+  - [x] ~~Casting Sheet~~
   - [x] ~~Character Sheet~~
   - [x] ~~Cheat Sheet~~
-- [x] ~~_📋 Add Explainer Sheet_~~
+- [x] ~~📋 Add Explainer Sheet~~
 - [x] ~~🤵‍♂️ Add Opponent Sheet~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
 - [x] ~~🧮 Add General Notes Sheet~~
