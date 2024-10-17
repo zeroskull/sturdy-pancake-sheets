@@ -2,7 +2,7 @@
 
 ## [Download The Latest Sheets](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 
-WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-pancake)
+WIP Character Sheets for [Shroudrend](https://github.com/iclasen/sturdy-pancake)
 
 <details>
 
@@ -22,14 +22,14 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ## **Getting Started**
 
-- Download the `sheets.zip` file from the [latest release.](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
+- Download the `.pdf` files from the [latest release.](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
 - Decide which style of sheet you would like to use for your character.
   - Descriptions and Examples are provided below. Links to relevant sections are located in the Table of Contents above.
 - Use the option "Actual Size" when printing the PDFs.
   - If you do not have the "Actual Size" option in your Print Dialog, try using Adobe Acrobat.
 - Use the PDF viewer in Firefox to add text to the PDFs.
   - If you want to print the sheet to use in person, remember to not add text to fields that you will have to edit.
-- If you would like to edit the layout or content of the sheets, download the `.svg` files in the `svgs` folder from this Git Repo.
+- If you would like to edit the layout or content of the sheets, download the `.svg` files in the `svgs` folder from this Git Repo, or download the Source zip from a release.
   - These sheets were designed in [Inkscape](https://inkscape.org/), but any vector graphics software, like Adobe Illustrator, should work.
 
 ## **Traditional Sheets**
@@ -103,9 +103,9 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
 
 ---
 
-### Opponent Cards
+### Opponent Sheets (GM Use)
 
-![Opponent Cards](resources/opponent-cards.png)
+![Opponent Sheets](resources/opponent-sheets.png)
 
 ---
 
@@ -159,13 +159,16 @@ WIP Character Sheets for [Sturdy Pancake](https://github.com/iclasen/sturdy-panc
   - [ ] Mavra
   - [ ] Torben
 - [ ] 🎴 Update Card Sheets
+  - [x] ~~_Opponent Sheets_~~
+  - [ ] Casting Cards
+  - [ ] Character Cards
+  - [ ] Cheat Cards
+  - [ ] Ability Cards
+- [ ] Overview
+- [ ] 📄 Update Traditional Sheets
   - [ ] Casting Sheet
   - [ ] Character Sheet
   - [ ] Cheat Sheet
-- [x] ~~📄 Update Traditional Sheets~~
-  - [x] ~~Casting Sheet~~
-  - [x] ~~Character Sheet~~
-  - [x] ~~Cheat Sheet~~
 - [x] ~~📋 Add Explainer Sheet~~
 - [x] ~~🤵‍♂️ Add Opponent Sheet~~
 - [x] ~~🧙‍♂️ Add Wizard Sheet~~
