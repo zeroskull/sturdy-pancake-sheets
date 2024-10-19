@@ -46,6 +46,8 @@ WIP Character Sheets for [Shroudrend](https://github.com/iclasen/sturdy-pancake)
 
 ### Character Sheet Overview
 
+**_OUT OF DATE_**
+
 ![Character Sheet Overview](resources/character-sheet-overview.png)
 
 ---
@@ -159,7 +161,7 @@ WIP Character Sheets for [Shroudrend](https://github.com/iclasen/sturdy-pancake)
   - [ ] Mavra
   - [ ] Torben
 - [ ] 🎴 Update Card Sheets
-  - [x] ~~_Opponent Sheets_~~
+  - [x] ~~Opponent Sheets~~
   - [ ] Casting Cards
   - [ ] Character Cards
   - [ ] Cheat Cards
@@ -167,7 +169,7 @@ WIP Character Sheets for [Shroudrend](https://github.com/iclasen/sturdy-pancake)
 - [ ] Overview
 - [ ] 📄 Update Traditional Sheets
   - [ ] Casting Sheet
-  - [ ] Character Sheet
+  - [X] ~~Character Sheet~~
   - [ ] Cheat Sheet
 - [x] ~~📋 Add Explainer Sheet~~
 - [x] ~~🤵‍♂️ Add Opponent Sheet~~
