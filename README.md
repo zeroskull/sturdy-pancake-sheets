@@ -1,7 +1,5 @@
 # Sturdy Pancake Sheets
 
-## [Download The Latest Sheets](https://github.com/zeroskull/sturdy-pancake-sheets/releases/latest)
-
 WIP Character Sheets for [Shroudrend](https://github.com/iclasen/sturdy-pancake)
 
 ## **Getting Started**
